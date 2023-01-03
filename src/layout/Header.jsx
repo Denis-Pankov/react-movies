@@ -9,7 +9,7 @@ function Header() {
         </a>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
-            <a href="https://github.com/Denis-Pankov/react-movies">Repo</a>
+            <a href="https://github.com/Denis-Pankov/react-movies" rel="noreferrer" target='_blank'>Repo</a>
           </li>
         </ul>
       </div>
